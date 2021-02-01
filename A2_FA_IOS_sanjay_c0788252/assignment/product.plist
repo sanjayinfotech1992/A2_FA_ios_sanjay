@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>productId</key>
+		<string>101</string>
+		<key>productName</key>
+		<string>Magic Mouse</string>
+		<key>productDescription</key>
+		<string>Provides super cool and additional functionality that enhances the mouse function</string>
+		<key>productProvider</key>
+		<string>Apple</string>
+		<key>productPrice</key>
+		<string>250</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>102</string>
+		<key>productName</key>
+		<string>Monitor</string>
+		<key>productDescription</key>
+		<string>Super cool monitor to display the details in the screen.Big monitor with wide edges.</string>
+		<key>productProvider</key>
+		<string>Apple</string>
+		<key>productPrice</key>
+		<string>20000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>103</string>
+		<key>productName</key>
+		<string>Joy Stick</string>
+		<key>productDescription</key>
+		<string>Best to play video games with perfection.</string>
+		<key>productProvider</key>
+		<string>Intel</string>
+		<key>productPrice</key>
+		<string>2999</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>104</string>
+		<key>productName</key>
+		<string>Mother Board</string>
+		<key>productDescription</key>
+		<string>Best motherboard available in market for the best functionality of the the appliance.</string>
+		<key>productProvider</key>
+		<string>Intel i5</string>
+		<key>productPrice</key>
+		<string>7000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>105</string>
+		<key>productName</key>
+		<string>Laptop</string>
+		<key>productDescription</key>
+		<string>Super fast laptop for best video functionality.with 256 ssd.1tb harddisk</string>
+		<key>productProvider</key>
+		<string>Dell</string>
+		<key>productPrice</key>
+		<string>69999</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>106</string>
+		<key>productName</key>
+		<string>Desktop</string>
+		<key>productDescription</key>
+		<string>Functions properly for multifunctional .which is better than other</string>
+		<key>productProvider</key>
+		<string>HP</string>
+		<key>productPrice</key>
+		<string>36700</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>107</string>
+		<key>productName</key>
+		<string>Mobile</string>
+		<key>productDescription</key>
+		<string>super camera clarity as 108mp. Long life battery</string>
+		<key>productProvider</key>
+		<string>Sumsung</string>
+		<key>productPrice</key>
+		<string>54000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>108</string>
+		<key>productName</key>
+		<string>Earbud</string>
+		<key>productDescription</key>
+		<string>Superior Sound clarity</string>
+		<key>productProvider</key>
+		<string>One PLus</string>
+		<key>productPrice</key>
+		<string>4899</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>109</string>
+		<key>productName</key>
+		<string>CPU</string>
+		<key>productDescription</key>
+		<string>Memmory storage</string>
+		<key>productProvider</key>
+		<string>Intel</string>
+		<key>productPrice</key>
+		<string>15999</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>110</string>
+		<key>productName</key>
+		<string>Headset</string>
+		<key>productDescription</key>
+		<string>Bar Sound and wireless</string>
+		<key>productProvider</key>
+		<string>Jbl</string>
+		<key>productPrice</key>
+		<string>2599</string>
+	</dict>
+</array>
+</plist>
